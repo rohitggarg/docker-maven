@@ -1,4 +1,4 @@
-FROM nimmis/java-centos:oracle-8-jdk
+FROM nimmis/java-centos:oracle-7-jdk
 
 MAINTAINER rohitgarg19@gmail.com
 ARG MAVEN_VERSION=3.3.9
